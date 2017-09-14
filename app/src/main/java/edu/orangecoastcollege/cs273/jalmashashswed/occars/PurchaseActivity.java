@@ -11,3 +11,4 @@ public class PurchaseActivity extends AppCompatActivity {
         setContentView(R.layout.activity_purchase);
     }
 }
+// just a comment
